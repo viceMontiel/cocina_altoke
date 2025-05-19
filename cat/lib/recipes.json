@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ensalada fresca",
+      "link_de_imagen": "https://www.hogarmania.com/archivos/202005/karl6568-ensalada-aguacate-xl-668x400x80xX-1.jpg",
+      "ingredientes": [2, 5, 9],
+      "preparación": "Lava la lechuga y el tomate. Corta en trozos pequeños. Agrega la palta en cubos. Mezcla todo en un bol, añade sal, limón y aceite de oliva.",
+      "calorias": 220,
+      "categoria": "colaciones"
+    },
+    {
+      "id": 2,
+      "nombre": "Bowl de lentejas y arroz",
+      "link_de_imagen": "https://www.gourmet.cl/wp-content/uploads/2022/05/lentejas-con-arroz-web-570x458.jpg",
+      "ingredientes": [3, 8, 7],
+      "preparación": "Cocina las lentejas y el arroz por separado. Saltea zanahorias ralladas. Mezcla todo en un bowl con un toque de aceite de oliva.",
+      "calorias": 320,     
+      "categoria": "almuerzo"
+
+    },
+    {
+      "id": 3,
+      "nombre": "Tazón de yogur con plátano",
+      "link_de_imagen": "https://i.blogs.es/a13b55/1/1366_2000.jpg",
+      "ingredientes": [1, 10],
+      "preparación": "Vierte yogur natural en un bowl y añade rodajas de plátano. Puedes agregar un poco de miel, semillas o canela para darle más sabor.",
+      "calorias": 180,
+      "categoria": "desayuno"
+
+    },
+    {
+      "id": 4,
+      "nombre": "Pollo salteado con arroz y zanahoria",
+      "link_de_imagen": "https://i.blogs.es/b2c054/salteado-pollo-zanahoria-salvaje/840_560.jpg",
+      "ingredientes": [3, 6, 7],
+      "preparación": "Saltea la pechuga de pollo en cubos con especias. Cocina arroz. Agrega zanahorias ralladas al final y mezcla.",
+      "calorias": 400,
+      "categoria": "almuerzo"
+    },
+    {
+      "id": 5,
+      "nombre": "Helado de plátano",
+      "link_de_imagen": "https://i.ytimg.com/vi/8ZAGcKHEI0Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSmUNMWt_oBNizRaxReaRXkCIp9A",
+      "ingredientes": [1, 10],
+      "preparación": "Muele el plátano y revuelvelo junto con el yougurt. Luego congélalo en tu freezer por 3 horas.",
+      "calorias": 180,
+      "categoria": "postre"
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "nombre": "Plátano",
+      "link_de_imagen": "https://purepng.com/public/uploads/large/purepng.com-single-bananabananafruityellowyummytastylight-green-331522344078czeap.png",
+      "carbohidratos": 23,
+      "proteinas": 1.1,
+      "grasas": 0.3,
+      "calorias": 96,
+      "vitaminas": ["Vitamina B6", "Vitamina C"],
+      "minerales": ["Potasio", "Magnesio"]
+    },
+    {
+      "id": 2,
+      "nombre": "Lechuga",
+      "link_de_imagen": "https://static.vecteezy.com/system/resources/previews/022/149/260/non_2x/green-lettuce-isolated-png.png",
+      "carbohidratos": 2.9,
+      "proteinas": 1.4,
+      "grasas": 0.2,
+      "calorias": 15,
+      "vitaminas": ["Vitamina A", "Vitamina K"],
+      "minerales": ["Hierro", "Calcio"]
+    },
+    {
+      "id": 3,
+      "nombre": "Arroz integral",
+      "link_de_imagen": "https://static.vecteezy.com/system/resources/thumbnails/044/813/341/small_2x/bowl-of-white-rice-isolated-on-transparent-background-png.png",
+      "carbohidratos": 23,
+      "proteinas": 2.6,
+      "grasas": 0.9,
+      "calorias": 111,
+      "vitaminas": ["Vitamina B1", "Vitamina B3"],
+      "minerales": ["Magnesio", "Fósforo"]
+    },
+    {
+      "id": 4,
+      "nombre": "Huevo",
+      "link_de_imagen": "https://pngimg.com/d/egg_PNG40783.png",
+      "carbohidratos": 0.6,
+      "proteinas": 6.3,
+      "grasas": 5.3,
+      "calorias": 68,
+      "vitaminas": ["Vitamina D", "Vitamina B12"],
+      "minerales": ["Selenio", "Zinc"]
+    },
+    {
+      "id": 5,
+      "nombre": "Tomate",
+      "link_de_imagen": "https://pngimg.com/d/tomato_PNG12511.png",
+      "carbohidratos": 3.9,
+      "proteinas": 0.9,
+      "grasas": 0.2,
+      "calorias": 18,
+      "vitaminas": ["Vitamina C", "Vitamina A"],
+      "minerales": ["Potasio", "Fósforo"]
+    },
+    {
+      "id": 6,
+      "nombre": "Pechuga de pollo",
+      "link_de_imagen": "hhttps://static.vecteezy.com/system/resources/thumbnails/041/149/788/small/ai-generated-grilled-chicken-breasts-with-rosemary-free-png.png",
+      "carbohidratos": 0,
+      "proteinas": 31,
+      "grasas": 3.6,
+      "calorias": 165,
+      "vitaminas": ["Vitamina B6", "Niacina"],
+      "minerales": ["Fósforo", "Selenio"]
+    },
+    {
+      "id": 7,
+      "nombre": "Zanahoria",
+      "link_de_imagen": "https://static.vecteezy.com/system/resources/thumbnails/052/652/953/small/fresh-carrot-on-white-background-png.png",
+      "carbohidratos": 10,
+      "proteinas": 0.9,
+      "grasas": 0.2,
+      "calorias": 41,
+      "vitaminas": ["Vitamina A", "Vitamina K"],
+      "minerales": ["Potasio", "Manganeso"]
+    },
+    {
+      "id": 8,
+      "nombre": "Lentejas",
+      "link_de_imagen": "https://png.pngtree.com/png-vector/20231018/ourmid/pngtree-lentils-in-a-bowl-on-white-background-lentil-png-image_10245817.png",
+      "carbohidratos": 20,
+      "proteinas": 9,
+      "grasas": 0.4,
+      "calorias": 116,
+      "vitaminas": ["Folato", "Vitamina B1"],
+      "minerales": ["Hierro", "Fósforo"]
+    },
+    {
+      "id": 9,
+      "nombre": "Palta",
+      "link_de_imagen": "https://png.pngtree.com/png-clipart/20231109/original/pngtree-slice-of-avocado-fruit-png-image_13520915.png",
+      "carbohidratos": 8.5,
+      "proteinas": 2,
+      "grasas": 15,
+      "calorias": 160,
+      "vitaminas": ["Vitamina E", "Vitamina C"],
+      "minerales": ["Potasio", "Magnesio"]
+    },
+    {
+      "id": 10,
+      "nombre": "Yogur natural",
+      "link_de_imagen": "https://static.vecteezy.com/system/resources/previews/027/291/697/non_2x/healthy-breakfast-with-fresh-greek-yogurt-free-png.png",
+      "carbohidratos": 4.7,
+      "proteinas": 3.5,
+      "grasas": 3.3,
+      "calorias": 61,
+      "vitaminas": ["Vitamina B12", "Riboflavina"],
+      "minerales": ["Calcio", "Fósforo"]
+    }
+  ]
+  
